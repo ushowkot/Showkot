@@ -1,2 +1,10 @@
 My name is Showkot Usman.I am programmer.
 php 7,html5,css,javaScript.
+
+# git init
+# git commit
+# git pull
+# git push 
+# git add file name.txt
+# git colne url
+#
